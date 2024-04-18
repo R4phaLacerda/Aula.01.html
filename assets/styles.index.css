@@ -78,3 +78,15 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+footer p{
+  font-size: 1.2rem;
+  color:#000202;
+}
+
+footer a {
+  color:rgb(116, 7, 149);
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 1px solid rgb(116, 7, 149);
+}
