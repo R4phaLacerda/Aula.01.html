@@ -67,3 +67,14 @@ aside {
   height: 80%;
   width: 25%;
 }
+
+footer {
+  background-color: orchid;
+  border-radius: 6px;
+  margin: 10px 0;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
