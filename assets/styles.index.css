@@ -41,12 +41,18 @@ margin: 10px;
 border-radius: 6px;
 height: 100px;
 display: flex;
-flex-direction: column;
-justify-content: center;
+flex-direction: row;
+justify-content: space-around;
 align-items: center;
 }
 
-#Principal {
+#profile-image {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+
+#principal {
   display: flex;
   height: 800px;
   width: 100%;
